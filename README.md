@@ -1,5 +1,4 @@
 # ISFSystem App
-
 ## What does it do?
 This is an app that lets you determine the most<br/>
 optimal for the employees to prepare the orders. <br/>
@@ -13,4 +12,4 @@ To run the app use this command:<br/>
 java -jar  /home/…/app.jar /home/…/store.json /home/…/orders.json <br/>
 
 You can generate the app.jar using the mvn package command
-# ISFSystem
+
